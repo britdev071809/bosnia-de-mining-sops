@@ -91,12 +91,16 @@ This SOP applies to all personnel involved in hillside clearance operations with
 - **Medical emergency** (injury or illness)
 
 ### 7.2. Evacuation Routes
-- **Primary Route:** The pre‑defined, safest path to the designated assembly point at the base of the hill (Grid Reference: [insert coordinates]).
-- **Secondary Route:** An alternative path to a higher‑ground rendezvous point (Grid Reference: [insert coordinates]) if the primary route is blocked.
+- **Primary Route:** The pre‑defined, safest path to the designated assembly point at the base of the hill (Grid Reference: 43°49'13"N 18°21'42"E – Base Camp).
+- **Secondary Route:** An alternative path to a higher‑ground rendezvous point (Grid Reference: 43°49'25"N 18°22'05"E – Ridge Top) if the primary route is blocked.
+
+*Note: The primary route leads directly to the Primary Assembly Point (Base Camp). The secondary route leads to the Secondary Assembly Point (Ridge Top). Both routes must be clearly marked and rehearsed before operations commence.*
 
 ### 7.3. Assembly Points
-- **Primary Assembly Point:** At the base camp (marked on map).
-- **Secondary Assembly Point:** At the ridge top (marked on map). Use this if the base camp is inaccessible.
+- **Primary Assembly Point:** At the base camp (Grid Reference: 43°49'13"N 18°21'42"E). This is the default gathering location after evacuation.
+- **Secondary Assembly Point:** At the ridge top (Grid Reference: 43°49'25"N 18°22'05"E). Use this if the base camp is inaccessible or if the evacuation order specifies moving to higher ground.
+
+*Rendezvous points are the same as the assembly points. Personnel must proceed to the designated assembly point based on the route taken and instructions from the Team Leader.*
 
 ### 7.4. Communication During Evacuation
 - **Radio Call Sign:** “EVAC‑EVAC‑EVAC” repeated three times.
